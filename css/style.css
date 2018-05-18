@@ -1,11 +1,11 @@
-.slider ul{
+.slider ul {
     list-style: none;
 }
 
-.slider li{
+.slider li {
     display: none;
 }
 
-.slider .visible{
+.slider .visible {
     display: inline-block;
 }
